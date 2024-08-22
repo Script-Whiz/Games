@@ -14,3 +14,6 @@ Ver 13 has "new data" , using a dataframe for the years 2012-2016 for the latter
 of my data analysis.
 
 Ver 13 has a new Conclusion, as "new data" has given different results.
+
+Ver 14 - All cells run with no kernal fail, before saving, and uploading to gitHub and TT.
+.
