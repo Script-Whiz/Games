@@ -16,4 +16,6 @@ of my data analysis.
 Ver 13 has a new Conclusion, as "new data" has given different results.
 
 Ver 14 - All cells run with no kernal fail, before saving, and uploading to gitHub and TT.
+
+Ver15 - There were many fixes that are somehow missing in this new version, and had to be redone. My Jupyter Notebook has been acting funky for a while. I may need to reinstall. So, although it must seem like I am ignoreing your notes, I am not. I noticed a few of my rev 5 notes missing in this version. I added those back in. I think I have fixed everything now.
 .
